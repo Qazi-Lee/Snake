@@ -1,0 +1,17 @@
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\study\unity\snake\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\snake服务器.Form1.resources
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\Snake.csproj.CopyComplete
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\study\unity\snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
